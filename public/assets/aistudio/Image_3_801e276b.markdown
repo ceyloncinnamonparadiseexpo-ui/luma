@@ -1,0 +1,229 @@
+---
+name: Luma Cove Weligama
+colors:
+  surface: '#fff8f0'
+  surface-dim: '#e2d9c8'
+  surface-bright: '#fff8f0'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#fcf3e1'
+  surface-container: '#f6eddb'
+  surface-container-high: '#f0e7d5'
+  surface-container-highest: '#eae2d0'
+  on-surface: '#1f1b10'
+  on-surface-variant: '#41474d'
+  inverse-surface: '#343024'
+  inverse-on-surface: '#f9f0de'
+  outline: '#72787e'
+  outline-variant: '#c1c7ce'
+  surface-tint: '#386380'
+  primary: '#00324b'
+  on-primary: '#ffffff'
+  primary-container: '#1b4965'
+  on-primary-container: '#8eb8d8'
+  inverse-primary: '#a1cced'
+  secondary: '#3b6934'
+  on-secondary: '#ffffff'
+  secondary-container: '#b9eeab'
+  on-secondary-container: '#3f6d38'
+  tertiary: '#531f07'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#70341b'
+  on-tertiary-container: '#f39e7d'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#c9e6ff'
+  primary-fixed-dim: '#a1cced'
+  on-primary-fixed: '#001e2f'
+  on-primary-fixed-variant: '#1d4b67'
+  secondary-fixed: '#bcf0ae'
+  secondary-fixed-dim: '#a1d494'
+  on-secondary-fixed: '#002201'
+  on-secondary-fixed-variant: '#23501e'
+  tertiary-fixed: '#ffdbce'
+  tertiary-fixed-dim: '#ffb599'
+  on-tertiary-fixed: '#370e00'
+  on-tertiary-fixed-variant: '#72361c'
+  background: '#fff8f0'
+  on-background: '#1f1b10'
+  surface-variant: '#eae2d0'
+typography:
+  display-hero:
+    fontFamily: Playfair Display
+    fontSize: 56px
+    fontWeight: '500'
+    lineHeight: 68px
+    letterSpacing: -0.02em
+  display-hero-mobile:
+    fontFamily: Playfair Display
+    fontSize: 38px
+    fontWeight: '500'
+    lineHeight: 46px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Playfair Display
+    fontSize: 40px
+    fontWeight: '600'
+    lineHeight: 50px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: Playfair Display
+    fontSize: 30px
+    fontWeight: '600'
+    lineHeight: 38px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Playfair Display
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Playfair Display
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 30px
+    letterSpacing: 0em
+  title-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.01em
+  title-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 17px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: 0.01em
+  body-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  body-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-caps:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 11px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.12em
+  label-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 14px
+    fontWeight: '600'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 1rem
+  gutter-desktop: 2rem
+  margin: 1.5rem
+  margin-mobile: 1.25rem
+  margin-desktop: 4rem
+  space-xs: 0.375rem
+  space-sm: 0.75rem
+  space-md: 1.25rem
+  space-lg: 2rem
+  space-xl: 3.5rem
+---
+
+## Brand & Style
+
+This design system expresses the sensory rhythm of Sri Lanka’s southern coast: salt air, tropical flora, warm sun-baked parchment, and spice-trade heritage. It targets discerning global travelers, wellness retreat seekers, and modern coastal wanderers who prioritize thoughtful luxury, authentic vernacular character, and serene hospitality over generic corporate opulence.
+
+The aesthetic philosophy fuses **Refined Coastal Minimalism** with **Warm Tactile Editorial**. The interface balances sunlit negative space with deeply grounded organic hues. Visual layouts evoke high-end boutique travel monographs and leisurely morning journals, rejecting clinical SaaS sharpness in favor of relaxed breathing room, textured materiality, and poised, poetic typography.
+
+## Colors
+
+The palette is rooted in the natural terroir of Weligama Bay:
+- **Ocean Blue (`#1B4965`, `#62B6CB`):** Deep oceanic depths anchoring key actions, navigation bars, and primary interactive states, balanced by coastal seafoam accents for highlights and active tab indicators.
+- **Lush Leafy Green (`#2D5A27`, `#4F772D`):** Rich jungle canopy tones reserved for nature-inspired tags, eco-initiatives, wellness programs, and seasonal botanical highlights.
+- **Cinnamon Brown (`#8C4A2F`, `#B85D36`, `#5C2C16`):** Evocative spice tones for secondary actions, booking accents, editorial pull quotes, and rich hover states.
+- **Warm Sand & Parchment (`#FDFBF7`, `#F4EBD9`, `#E6DCB8`):** The foundation of the visual experience. The canvas rejects harsh pure white `#FFFFFF` in favor of `#FDFBF7`, with `#F4EBD9` and `#E6DCB8` forming soft organic surfaces, structural dividers, and warm backdrops.
+
+Text contrast uses deep espresso-charcoal (`#1F1D1A`) on parchment surfaces to maintain warmth and effortless legibility.
+
+## Typography
+
+The type system creates an intentional dialogue between the classical grace of **Playfair Display** and the crisp, approachable modernism of **Plus Jakarta Sans**. 
+
+- **Editorial Headings:** Playfair Display introduces literary charm and timeless poise. Headings larger than 30px adopt subtle negative tracking for a compact editorial lockup.
+- **Body & Functional Text:** Plus Jakarta Sans provides generous counter-spaces, smooth legibility at small sizes, and clean structural reading for suite descriptions, pricing breakdowns, itineraries, and menus.
+- **Micro-Copy & Badges:** `label-caps` must always be rendered in full uppercase with expanded letter-spacing (`0.12em`), creating a premium, tactile stamp effect for room categories, curation tags, and location coordinates.
+
+## Layout & Spacing
+
+The layout philosophy centers on a relaxed fluid-responsive grid system designed to simulate the unhurried luxury of an open-air pavilion:
+
+- **Desktop (≥ 1024px):** 12-column grid with a maximum content container width of 1320px, framed by expansive `margin-desktop` (64px) to preserve calm breathing margins.
+- **Tablet (768px – 1023px):** 8-column layout with 24px gutters, adapting editorial sidebars into sequential rhythm sections.
+- **Mobile (< 768px):** 4-column layout with 16px gutters and 20px outer margin, ensuring touch targets remain comfortable while visual cards stretch gracefully edge-to-edge with inset padding.
+
+Vertical rhythm favors generous sectional breaks (`space-xl`), allowing architectural imagery and resort amenities to breathe without visual congestion.
+
+## Elevation & Depth
+
+Depth in this design system avoids aggressive synthetic drop shadows. Instead, it relies on warm, sun-diffused ambient light and natural paper layering:
+
+- **Ambient Shading:** Elevated elements cast low-opacity shadows tinted with deep cinnamon-sand undertones (`rgba(92, 44, 22, 0.07)` with blur radii from 12px to 24px) rather than cold synthetic black.
+- **Tonal Stepping:** Surfaces stack naturally: the primary canvas `#FDFBF7` rests below parchment surface containers (`#F4EBD9`), which in turn hold bright floating cards or modals.
+- **Natural Borders:** Subtle 1px borders colored in soft sand-ochre (`#E6DCB8` at 60% opacity) define structural cards and separators, evoking deck timber joinery and woven textiles.
+
+## Shapes
+
+The design system incorporates soft, welcoming geometry inspired by beach pebbles, ocean-smoothed sea glass, and curved archways of tropical colonial architecture:
+
+- Standard interactive controls and input containers use an 8px radius (`roundedness: 2`).
+- Media cards and imagery containers use 16px (`rounded-lg`), providing an inviting, tactile softness to photography.
+- Experience tags, amenity badges, and floating status chips use full pill geometry (`9999px`) to create hand-crafted tactile seals.
+
+## Components
+
+### Buttons
+- **Primary Action (Ocean Blue):** Deep ocean blue background (`#1B4965`) with warm sand typography (`#FDFBF7`), 8px border-radius, and generous horizontal padding (`space-lg`). On hover, transitions smoothly to Cinnamon Brown (`#8C4A2F`) with a subtle lift.
+- **Secondary Action (Warm Sand Outline):** Transparent background with a 1.5px solid border in `#1B4965`, typography in `#1B4965`. On hover, fills with a gentle sand wash (`#F4EBD9`).
+- **Editorial Text Action:** Playfair Display medium weight paired with an animated terracotta underline (`#B85D36`) and a right arrow glyph for exploration cues.
+
+### Chips & Badges
+- **Amenity Badges:** Pill-shaped capsules with sand background (`#F4EBD9`), 1px outline in `#E6DCB8`, using uppercase `label-caps` in `#5C2C16`.
+- **Wellness & Nature Tags:** Leafy green tint (`#4F772D` at 12% opacity) with solid green typography (`#2D5A27`).
+
+### Cards (Suites & Experiences)
+- Enclosed in an off-white background (`#FFFFFF` with warm parchment undertones) over the canvas, surrounded by a 1px border of `#E6DCB8`.
+- 16px border-radius with overflow hidden on image headers. Imagery employs warm, desaturated color grading.
+- Includes micro-headers in Cinnamon Brown uppercase text, Playfair room titles, and bottom booking price docks separated by subtle hairline rules.
+
+### Input Fields & Selectors
+- Background filled in `#FDFBF7` with a 1px boundary in `#E6DCB8`.
+- Focus states shift the border to Ocean Blue (`#1B4965`) alongside a warm ambient focus halo (`rgba(27, 73, 101, 0.15)`).
+- Placeholder copy rendered in warm muted mocha (`#8C827A`).
+
+### Checkboxes & Radios
+- Rounded squares (for checkboxes) and circles (for radios) framed in 1.5px `#1B4965`.
+- Active state fills with `#1B4965` displaying an ivory-white checkmark or central pip.
+
+### Specialized Hospitality Components
+- **Booking Engine Bar:** A horizontal floating console utilizing parchment layers, dividing dates, guest counts, and villa categories with delicate vertical sand dividers.
+- **Tide & Weather Widget:** An unobtrusive ambient status card featuring minimal sun/ocean iconography, tide heights, and surf conditions rendered in clean coastal tones.
+- **Vernacular Menu Drawer:** A full-bleed parchment menu panel with graceful editorial typography, reminiscent of hand-printed resort dining cards.

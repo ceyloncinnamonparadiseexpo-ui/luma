@@ -1,0 +1,6 @@
+{
+  "name": "Luma Cove Weligama",
+  "description": "Luxury boutique coastal retreat and Ayurvedic wellness sanctuary in Weligama Bay, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
